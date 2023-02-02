@@ -1,0 +1,13 @@
+{
+  "name": "open-ai-example",
+  "version": "1.0.0",
+  "description": "An example application that integrates with OpenAI API.",
+  "main": "generate.js",
+  "keywords": [],
+  "author": "Jake Flavin",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "10.0.0",
+    "openai": "3.1.0"
+  }
+}
